@@ -6,7 +6,7 @@
 # About
 <img align='right' src='https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200'>
 
-Quality Assurance with 1 years of experience as a Software Development who has the ability in designing and executing test plans, test cases, and test scripts to validate software functionality, performance, and reliability. Able to use the Java/Python programing language and Selenium and Serenity, I am eager to bring my expertise to a dynamic team focused on delivering high-quality software solutions
+Junior Quality Assurance with 1 years of experience as a Software Development who has the ability in designing and executing test plans, test cases, and test scripts to validate software functionality, performance, and reliability. Able to use the Java/Python programing language and Selenium and Serenity, I am eager to bring my expertise to a dynamic team focused on delivering high-quality software solutions
 
 
 # Connect with me :
